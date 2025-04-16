@@ -1,4 +1,4 @@
-# Mobile Sales Dashboard
+# Mobile Sales Dashboard : Major (Final) project (G16 | SQL & PowerBI | SureTrust) 
 
 An interactive Power BI dashboard for analyzing mobile sales performance, customer trends, and payment methods across various brands. This project offers a comprehensive view of sales data, empowering businesses to make data-driven decisions and optimize their sales strategies.
 
